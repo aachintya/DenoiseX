@@ -2,7 +2,6 @@
 Dim Light Image Enhancement
 
 [Deployed Link](http://aachintya.streamlit.app/) 
-> Note: This model was an older version without U-Net Architecture and Attention Mechanisms
 
 ## 🚀 Features
 - Upload low-light images in `.jpg`, `.jpeg`, or `.png` formats  
