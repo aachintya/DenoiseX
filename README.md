@@ -1,15 +1,29 @@
-# DenoiseX
-Dim Light Image Enhancement
+# **DenoiseX**  
+### *Dim Light Image Enhancement Tool*
 
-[Deployed Link](http://aachintya.streamlit.app/) 
+🔗 [**Launch App**](http://aachintya.streamlit.app/)
 
-## 🚀 Features
-- Upload low-light images in `.jpg`, `.jpeg`, or `.png` formats  
-- Enhances images using a TensorFlow denoising model  
-- View side-by-side before and after results  
-- Download the enhanced image  
+🎥 [**Watch Demo Video**](https://drive.google.com/file/d/1MEsGPJ9GV8wVQiY8bCm3d7WtsI6wQ1z7/view?usp=sharing)
 
-## 📦 Setup
+---
+
+## 🔧 **Key Features**
+
+- **Seamless Image Upload**  
+  Supports `.jpg`, `.jpeg`, and `.png` file formats for low-light images.
+
+- **Advanced Enhancement**  
+  Utilizes a custom TensorFlow-based denoising model tailored for low-light image enhancement.
+
+- **Interactive Visualization**  
+  Instantly compare original and enhanced images side-by-side.
+
+- **Easy Download**  
+  Download the enhanced image with a single click.
+
+---
+
+## 📦 Local Setup
 
 Follow these steps to set up and run the Low-Light Image Enhancer app:
 
